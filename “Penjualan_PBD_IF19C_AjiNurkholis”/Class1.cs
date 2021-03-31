@@ -13,6 +13,7 @@ namespace _Penjualan_PBD_IF19C_AjiNurkholis_
             Console.WriteLine("Hello word");
             Console.WriteLine("Hello word");
             Console.WriteLine("Hello word");
+            Console.WriteLine("Hello word");
         }
     }
 }
